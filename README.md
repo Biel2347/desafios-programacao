@@ -7,8 +7,8 @@
 ## Tabela de Exercícios e Comprovações
 | Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma | Imagem Comprobatória |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | Módulo 1 Coddy | Uso de printf e inclusão de bibliotecas | Aprovado | [Ver Imagem](/desafios-programacao/prints/print_01.png) |
-| 02 | Módulo 2 Coddy | Valores e variaveis, modulo incompleto | Em Curso | [Ver Imagem](/desafios-programacao/prints/print_02.png) |
+| 01 | Módulo 1 Coddy | Uso de printf e inclusão de bibliotecas | Aprovado | [Ver Imagem](./prints/print_01.png) |
+| 02 | Módulo 2 Coddy | Valores e variaveis, modulo incompleto | Em Curso | [Ver Imagem](./prints/print_02.png) |
 
 ---
 ## Resumo dos Conceitos Praticados
